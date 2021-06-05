@@ -1,7 +1,7 @@
 ####################################
-# NIKHIL SHRESTHA                  #
-# http://youtube.com/dataprofessor #
-# http://github.com/dataprofessor  #
+# Walmart Weekly Sales Prediction  #
+# Linear Regression Model          #  
+# Author: Nikhil Shrestha          #
 ####################################
 
 # Importing libraries
